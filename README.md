@@ -58,10 +58,6 @@
 <a href="https://github.com/avt-elles" title="Perfil do Alexsander">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=avt-elles&theme=dracula&show_icons=true" />
 </a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=(https://www.linkedin.com/in/avt-elles/))]((https://www.linkedin.com/in/avt-elles/))
-
+  
 
 
