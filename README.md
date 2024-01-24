@@ -7,9 +7,15 @@
 - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
+
+
+
 ## Minhas Skills
 
+
+
 **Aplicações e dados**
+
 
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
