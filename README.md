@@ -62,7 +62,6 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=(https://www.linkedin.com/in/avt-elles/))]((https://www.linkedin.com/in/avt-elles/))
-[![Gmail Badge](https://img.shields.io/badge/alevtelles@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alevtelles@email.com)](mailto:alevtelles@email.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+
 
 
