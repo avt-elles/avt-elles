@@ -9,9 +9,6 @@
 
 
 
-## Minhas Skills
-
-
 
 **Aplicações e dados**
 
