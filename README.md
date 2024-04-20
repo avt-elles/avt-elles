@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1470350413/vector/software-developer-working-with-computers.jpg?s=612x612&w=0&k=20&c=rMDiFqhfe3PUzikjGeCuSl-x4YlXFCcnM_psO4MlOU0=" alt="Software Developer">
-</div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 # Alexsander 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[Alexsander]-blue?logo=linkedin)](https://www.linkedin.com/in/avt-elles)
-[![Website](https://img.shields.io/badge/Website-[SeuWebsite]-blue?logo=google-chrome)](https://www.[seusite.com])
 
 ## 👋 Olá!
 
@@ -43,7 +41,7 @@ Fique à vontade para entrar em contato comigo para discutir oportunidades de co
 
 ## Sobre mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Gestão de Produto na Ampli.
