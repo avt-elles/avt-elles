@@ -18,16 +18,16 @@ Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de 
     [![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,express,nextjs,django,flask)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,express,nextjs,nestjs,django,flask)](https://skillicons.dev)
 - Dados: 
 
-    [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongo)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongo,firebase,supabase)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,azure,postman)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,docker,aws,azure,postman,notion)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap,materialui,styledcomponents)](https://skillicons.dev)
 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
