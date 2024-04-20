@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" >
-
+</div>
 # Alexsander 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[Alexsander]-blue?logo=linkedin)](https://www.linkedin.com/in/avt-elles)
