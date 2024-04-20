@@ -14,7 +14,7 @@ Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de 
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,javascritp,typescript,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
     [![My Skills](https://skillicons.dev/icons?i=spring,react,django)](https://skillicons.dev)
