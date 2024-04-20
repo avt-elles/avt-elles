@@ -15,10 +15,10 @@ Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de 
 
 - Linguagens de Programação: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,node,python)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,nodejs,python)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=react,express,django,flask)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,express,nextjs,django,flask)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongo)](https://skillicons.dev)
