@@ -24,10 +24,10 @@ Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de 
     [![My Skills](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongo)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,docker)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,bootstrap)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
