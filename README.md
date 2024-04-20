@@ -27,7 +27,7 @@ Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de 
     [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss)](https://skillicons.dev)
 
 ## 🏆 Projetos Destacados
 
