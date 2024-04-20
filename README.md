@@ -32,7 +32,7 @@ Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de 
 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. Estou ansioso para ouvir de você! 😊
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
+![avt-elles GitHub stats](https://github-readme-stats.vercel.app/api?username=DiasEllen26&show_icons=true&theme=merko)
 
 
 **Utilidades**
