@@ -7,7 +7,8 @@
 
 ## 👋 Olá!
 
-Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+Sou um desenvolvedor de software com mais de 9 anos de experiência em empresas líderes no setor financeiro, como Banco Sicredi e Grupo Santander. 
+Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de Sistemas de Computação pela UNOPAR. Possuo certificações em Product Manager, Agile Coach e Design Thinking, que me ajudam a criar soluções inovadoras e eficientes para os clientes e usuários. Tenho por objetivo contribuir para o desenvolvimento de produtos digitais que gerem valor e impacto positivo para a sociedade. Sou apaixonado por aprender novas tecnologias e metodologias, e por trabalhar em equipe com profissionais de diferentes áreas e backgrounds.
 
 ## 🚀 Habilidades Técnicas
 
