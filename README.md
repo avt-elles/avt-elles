@@ -1,11 +1,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" >
 </div>
-#Alexsander 
 
+
+
+
+## 👋 Olá! Me chamo Alexsander 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-[Alexsander]-blue?logo=linkedin)](https://www.linkedin.com/in/avt-elles)
-
-## 👋 Olá!
 
 Sou um desenvolvedor de software com mais de 9 anos de experiência em empresas líderes no setor financeiro, como Banco Sicredi e Grupo Santander. 
 Atualmente estou estudando Ciência de Dados pela Wyden, Formado em Análise de Sistemas de Computação pela UNOPAR. Possuo certificações em Product Manager, Agile Coach e Design Thinking, que me ajudam a criar soluções inovadoras e eficientes para os clientes e usuários. Tenho por objetivo contribuir para o desenvolvimento de produtos digitais que gerem valor e impacto positivo para a sociedade. Sou apaixonado por aprender novas tecnologias e metodologias, e por trabalhar em equipe com profissionais de diferentes áreas e backgrounds.
